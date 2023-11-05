@@ -8,6 +8,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oxc-project/oxc-assets/main/preview-dark-transparent.png" width="600">
+    <img alt="OXC Logo" src="https://raw.githubusercontent.com/oxc-project/oxc-assets/main/preview-white.png" width="600">
+  </picture>
+</p>
 
 The Oxc organization is a MIT licensed open source project, governed by (in alphabetical order):
 
@@ -16,7 +22,7 @@ The Oxc organization is a MIT licensed open source project, governed by (in alph
 * [@yyx990803] ([Vite])
 * [@zoolsher] ([web-infra-dev])
 
-[@boshen] is the MIT license copyright holder, with sole publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
+[@boshen] is the MIT license copyright holder, with publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
 
 [@boshen]: github.com/boshen
 [@hardfist]: github.com/hardfist
@@ -24,7 +30,7 @@ The Oxc organization is a MIT licensed open source project, governed by (in alph
 [@zoolsher]: github.com/zoolsher
 
 [Rspack]: https://github.com/web-infra-dev/rspack
-[Vite]: https://github.com/vite](https://github.com/vitejs
+[Vite]: https://github.com/vitejs
 [web-infra-dev]: https://github.com/web-infra-dev
 
 [npmjs.com]: https://npmjs.com
