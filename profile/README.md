@@ -16,7 +16,7 @@ The Oxc organization is a MIT licensed free open source project, governed by (in
 * [@yyx990803] ([Vite])
 * [@zoolsher] ([web-infra-dev])
 
-[@boshen] is the MIT license copyright holder, with sole publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode]
+[@boshen] is the MIT license copyright holder, with sole publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
 
 [@boshen]: github.com/boshen
 [@hardfist]: github.com/hardfist
