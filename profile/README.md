@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-The Oxc organization is a MIT licensed free open source project, governed by (in alphabetical order):
+The Oxc organization is a MIT licensed open source project, governed by (in alphabetical order):
 
 * [@boshen] (Project Lead)
 * [@hardfist] ([Rspack]) 
