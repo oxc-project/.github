@@ -15,7 +15,7 @@
   </picture>
 </p>
 
-Oxc is a MIT licensed open source project, governed by (in alphabetical order):
+Oxc is an MIT licensed open source project, governed by (in alphabetical order):
 
 * [@boshen] - Project Lead
 * [@hardfist] - [Rspack]
