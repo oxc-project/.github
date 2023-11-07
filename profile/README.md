@@ -24,10 +24,10 @@ Oxc is an MIT licensed open source project, governed by (in alphabetical order):
 
 [@boshen] is the MIT license copyright holder, with publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
 
-[@boshen]: github.com/boshen
-[@hardfist]: github.com/hardfist
-[@yyx990803]: github.com/yyx990803
-[@zoolsher]: github.com/zoolsher
+[@boshen]: https://github.com/boshen
+[@hardfist]: https://github.com/hardfist
+[@yyx990803]: https://github.com/yyx990803
+[@zoolsher]: https://github.com/zoolsher
 
 [Rspack]: https://github.com/web-infra-dev/rspack
 [Vite]: https://github.com/vitejs
@@ -36,4 +36,3 @@ Oxc is an MIT licensed open source project, governed by (in alphabetical order):
 [npmjs.com]: https://npmjs.com
 [crates.io]: https://crates.io
 [marketplace.visualstudio.com/vscode]: https://marketplace.visualstudio.com/vscode
-
