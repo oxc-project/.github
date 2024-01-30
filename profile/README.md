@@ -15,6 +15,15 @@
   </picture>
 </p>
 
+<div align="center">
+  
+[![Homepage][website-badge]][website-url]
+  
+</div>
+
+[website-badge]: https://img.shields.io/badge/Homepage-blue
+[website-url]: https://oxc-project.github.io
+
 Oxc is an MIT licensed open source project, governed by (in alphabetical order):
 
 * [@boshen] - Project Lead
