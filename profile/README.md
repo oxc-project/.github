@@ -27,9 +27,7 @@
 Oxc is an MIT licensed open source project, governed by (in alphabetical order):
 
 * [@boshen] - Project Lead
-* [@hardfist] - [Rspack]
 * [@yyx990803] - [Vite]
-* [@zoolsher] - [web-infra-dev]
 
 [@boshen] is the MIT license copyright holder, with publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
 
