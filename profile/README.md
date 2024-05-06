@@ -23,8 +23,6 @@ Oxc is an MIT licensed open source project, governed by:
 
 [@boshen] is the MIT license copyright holder, with publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
 
-## ❤️ Sponsors
-
 <p align="center">
   <a href="https://github.com/sponsors/Boshen">
     <img src="https://cdn.jsdelivr.net/gh/boshen/sponsors/sponsors.svg" alt="My sponsors" />
