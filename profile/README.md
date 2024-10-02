@@ -4,12 +4,12 @@
 
 <div align="center">
   
-[![Homepage][website-badge]][website-url]
+[![oxc.rs][website-badge]][website-url]
   
 </div>
 
-[website-badge]: https://img.shields.io/badge/Homepage-blue
-[website-url]: https://oxc-project.github.io
+[website-badge]: https://img.shields.io/badge/oxc.rs-blue
+[website-url]: https://oxc.rs
 
 Oxc is an MIT licensed open source project, governed by:
 
@@ -17,7 +17,7 @@ Oxc is an MIT licensed open source project, governed by:
 * [@yyx990803] - [Vite]
 * and the [core team](https://oxc.rs/team.html)
 
-[@boshen] is the MIT license copyright holder, with publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
+[VoidZero Inc.](https://voidzero.dev) is the MIT license copyright holder, with publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
 
 <p align="center">
   <a href="https://github.com/sponsors/Boshen">
