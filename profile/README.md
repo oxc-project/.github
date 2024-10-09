@@ -14,10 +14,12 @@
 Oxc is an MIT licensed open source project, governed by:
 
 * [@boshen] - Project Lead
-* [@yyx990803] - [Vite]
+* [@yyx990803] - [voidzero]
 * and the [core team](https://oxc.rs/team.html)
+  
+Oxc is also a project of [VoidZero Inc.][voidzero], see our annoucement [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://voidzero.dev/blog).
 
-[VoidZero Inc.](https://voidzero.dev) is the MIT license copyright holder, with publishing rights to [npmjs.com], [crates.io] and [marketplace.visualstudio.com/vscode].
+If you have requirements for JavaScript tools at scale, please [get in touch](https://forms.gle/WQgjyzYJpwurpxWKA)!
 
 <p align="center">
   <a href="https://github.com/sponsors/Boshen">
@@ -31,3 +33,4 @@ Oxc is an MIT licensed open source project, governed by:
 [npmjs.com]: https://npmjs.com
 [crates.io]: https://crates.io
 [marketplace.visualstudio.com/vscode]: https://marketplace.visualstudio.com/vscode
+[voidzero]: https://voidzero.dev
