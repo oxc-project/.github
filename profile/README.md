@@ -34,3 +34,17 @@ If you have requirements for JavaScript tools at scale, please [get in touch](ht
 [crates.io]: https://crates.io
 [marketplace.visualstudio.com/vscode]: https://marketplace.visualstudio.com/vscode
 [voidzero]: https://voidzero.dev
+
+---
+
+Major projects in this organization:
+
+* [oxc](https://github.com/oxc-project/oxc)
+* [oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - [oxc.rs](https://oxc.rs)
+* [playground](https://github.com/oxc-project/playground) - [playground.oxc.rs](https://playground.oxc.rs)
+* [oxc-resolver](https://github.com/oxc-project/oxc-resolver) - esm / cjs module resolution
+* [oxc-sourcemap](https://github.com/oxc-project/oxc-sourcemap) - Forked version of rust-sourcemap
+* [oxc-index-vec](https://github.com/oxc-project/oxc-index-vec) - Forked version of index_vec
+* [oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
+* [oxc-miette](https://github.com/oxc-project/oxc-miette) - Forked version of miette
+* [unicode-id-start](https://github.com/oxc-project/unicode-id-start) - Determine whether characters have the ID_Start or ID_Continue properties
