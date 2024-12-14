@@ -48,3 +48,11 @@ Major projects in this organization:
 * [oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
 * [oxc-miette](https://github.com/oxc-project/oxc-miette) - Forked version of miette
 * [unicode-id-start](https://github.com/oxc-project/unicode-id-start) - Determine whether characters have the ID_Start or ID_Continue properties
+
+
+| Tool | npmjs.com | crates.io | Weekly Downloads |
+| ---- | --------- | --------- | ---------------- |
+| Linter | [oxlint](https://npmjs.com/package/oxlint) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) | 
+| Parser | [oxc-parser](https://www.npmjs.com/package/oxc-parser) | [oxc_parser](https://crates.io/crates/oxc_parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
+| Transformer | [oxc-transform](https://www.npmjs.com/package/oxc-transform) | [oxc_transformer](https://crates.io/crates/oxc_transformer) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
+| Resolver | [oxc-resolver](https://www.npmjs.com/package/oxc-resolver) | [oxc_resolver](https://crates.io/crates/oxc_resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |
