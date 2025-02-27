@@ -47,6 +47,7 @@ Major projects in this organization:
 * [oxc-index-vec](https://github.com/oxc-project/oxc-index-vec) - Forked version of index_vec
 * [oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
 * [oxc-miette](https://github.com/oxc-project/oxc-miette) - Forked version of miette
+* [javascript-globals](https://github.com/oxc-project/javascript-globals) - Rust fork of [globals](https://www.npmjs.com/package/globals) 
 * [unicode-id-start](https://github.com/oxc-project/unicode-id-start) - Determine whether characters have the ID_Start or ID_Continue properties
 
 
