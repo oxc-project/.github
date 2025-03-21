@@ -56,4 +56,5 @@ Major projects in this organization:
 | Linter | [oxlint](https://npmjs.com/package/oxlint) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) | 
 | Parser | [oxc-parser](https://www.npmjs.com/package/oxc-parser) | [oxc_parser](https://crates.io/crates/oxc_parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
 | Transformer | [oxc-transform](https://www.npmjs.com/package/oxc-transform) | [oxc_transformer](https://crates.io/crates/oxc_transformer) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
+| Minifier | [oxc-minifiy](https://www.npmjs.com/package/oxc-minify) | [oxc_minifier](https://crates.io/crates/oxc_minifier) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
 | Resolver | [oxc-resolver](https://www.npmjs.com/package/oxc-resolver) | [oxc_resolver](https://crates.io/crates/oxc_resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |
