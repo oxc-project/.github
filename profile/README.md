@@ -54,6 +54,7 @@ Major projects in this organization:
 | Tool | npmjs.com | crates.io | Weekly Downloads |
 | ---- | --------- | --------- | ---------------- |
 | Linter | [oxlint](https://npmjs.com/package/oxlint) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) | 
+| Formatter | [oxfmt](https://npmjs.com/package/oxfmt) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) | 
 | Parser | [oxc-parser](https://www.npmjs.com/package/oxc-parser) | [oxc_parser](https://crates.io/crates/oxc_parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
 | Transformer | [oxc-transform](https://www.npmjs.com/package/oxc-transform) | [oxc_transformer](https://crates.io/crates/oxc_transformer) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
 | Minifier | [oxc-minifiy](https://www.npmjs.com/package/oxc-minify) | [oxc_minifier](https://crates.io/crates/oxc_minifier) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
