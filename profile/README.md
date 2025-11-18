@@ -42,6 +42,7 @@ Major projects in this organization:
 * [oxc](https://github.com/oxc-project/oxc)
 * [oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - [oxc.rs](https://oxc.rs)
 * [playground](https://github.com/oxc-project/playground) - [playground.oxc.rs](https://playground.oxc.rs)
+* [tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 * [oxc-resolver](https://github.com/oxc-project/oxc-resolver) - esm / cjs module resolution
 * [oxc-sourcemap](https://github.com/oxc-project/oxc-sourcemap) - Forked version of rust-sourcemap
 * [oxc-index-vec](https://github.com/oxc-project/oxc-index-vec) - Forked version of index_vec
@@ -49,7 +50,6 @@ Major projects in this organization:
 * [oxc-miette](https://github.com/oxc-project/oxc-miette) - Forked version of miette
 * [javascript-globals](https://github.com/oxc-project/javascript-globals) - Rust fork of [globals](https://www.npmjs.com/package/globals) 
 * [unicode-id-start](https://github.com/oxc-project/unicode-id-start) - Determine whether characters have the ID_Start or ID_Continue properties
-
 
 | Tool | npmjs.com | crates.io | Weekly Downloads |
 | ---- | --------- | --------- | ---------------- |
