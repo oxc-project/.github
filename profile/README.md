@@ -51,7 +51,7 @@ If you have requirements for JavaScript tools at scale, please [get in touch](ht
 Major projects in this organization:
 
 * [oxc](https://github.com/oxc-project/oxc) - parser, transformer, minifier, linter, formatter
-* [oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - [oxc.rs](https://oxc.rs)
+* [website](https://github.com/oxc-project/website) - [oxc.rs](https://oxc.rs)
 * [playground](https://github.com/oxc-project/playground) - [playground.oxc.rs](https://playground.oxc.rs)
 * [tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 * [oxc-resolver](https://github.com/oxc-project/oxc-resolver) - esm / cjs module resolution
