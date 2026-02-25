@@ -41,7 +41,7 @@ If you have requirements for JavaScript tools at scale, please [get in touch](ht
 [@boshen]: https://github.com/boshen
 [@yyx990803]: https://github.com/yyx990803
 [Vite]: https://github.com/vitejs
-[npmjs.com]: https://npmjs.com
+[npmx.dev]: https://npmx.dev
 [crates.io]: https://crates.io
 [marketplace.visualstudio.com/vscode]: https://marketplace.visualstudio.com/vscode
 [voidzero]: https://voidzero.dev
@@ -59,15 +59,16 @@ Major projects in this organization:
 * [oxc-index-vec](https://github.com/oxc-project/oxc-index-vec) - Forked version of index_vec
 * [oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
 * [oxc-miette](https://github.com/oxc-project/oxc-miette) - Forked version of miette
-* [javascript-globals](https://github.com/oxc-project/javascript-globals) - Rust fork of [globals](https://www.npmjs.com/package/globals) 
+* [javascript-globals](https://github.com/oxc-project/javascript-globals) - Rust fork of [globals](https://npmx.dev/package/globals)
 * [unicode-id-start](https://github.com/oxc-project/unicode-id-start) - Determine whether characters have the ID_Start or ID_Continue properties
 
-| Tool | npmjs.com | crates.io | Weekly Downloads |
+| Tool | npmx.dev | crates.io | Weekly Downloads |
 | ---- | --------- | --------- | ---------------- |
-| Linter | [oxlint](https://npmjs.com/package/oxlint) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) | 
-| Type-Aware Linter | [oxlint-tsgolint](https://npmjs.com/package/oxlint-tsgolint) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) | 
-| Formatter | [oxfmt](https://npmjs.com/package/oxfmt) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) | 
-| Parser | [oxc-parser](https://www.npmjs.com/package/oxc-parser) | [oxc_parser](https://crates.io/crates/oxc_parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
-| Transformer | [oxc-transform](https://www.npmjs.com/package/oxc-transform) | [oxc_transformer](https://crates.io/crates/oxc_transformer) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
-| Minifier | [oxc-minifiy](https://www.npmjs.com/package/oxc-minify) | [oxc_minifier](https://crates.io/crates/oxc_minifier) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
-| Resolver | [oxc-resolver](https://www.npmjs.com/package/oxc-resolver) | [oxc_resolver](https://crates.io/crates/oxc_resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |
+| Linter | [oxlint](https://npmx.dev/package/oxlint) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=npm) |
+| Type-Aware Linter | [oxlint-tsgolint](https://npmx.dev/package/oxlint-tsgolint) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=npm) |
+| Formatter | [oxfmt](https://npmx.dev/package/oxfmt) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) |
+| Parser | [oxc-parser](https://npmx.dev/package/oxc-parser) | [oxc_parser](https://crates.io/crates/oxc_parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
+| Transformer | [oxc-transform](https://npmx.dev/package/oxc-transform) | [oxc_transformer](https://crates.io/crates/oxc_transformer) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
+| Minifier | [oxc-minifiy](https://npmx.dev/package/oxc-minify) | [oxc_minifier](https://crates.io/crates/oxc_minifier) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
+| Resolver | [oxc-resolver](https://npmx.dev/package/oxc-resolver) | [oxc_resolver](https://crates.io/crates/oxc_resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |
+| Webpack Loader | [oxc-webpack-loader](https://npmx.dev/package/oxc-webpack-loader) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-webpack-loader?label=npm) |
