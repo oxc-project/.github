@@ -86,6 +86,6 @@ Major projects in this organization:
 | Node Loader | [@oxc-node/core](https://npmx.dev/package/@oxc-node/core) | | ![NPM Downloads](https://img.shields.io/npm/dw/@oxc-node/core?label=npm) |
 | AST Walker | [oxc-walker](https://npmx.dev/package/oxc-walker) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-walker?label=npm) |
 | ESLint Plugin | [eslint-plugin-oxlint](https://npmx.dev/package/eslint-plugin-oxlint) | | ![NPM Downloads](https://img.shields.io/npm/dw/eslint-plugin-oxlint?label=npm) |
-| ESLint Migration | [oxlint-migrate](https://npmx.dev/package/oxlint-migrate) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-migrate?label=npm) |
+| ESLint Migration | [@oxlint/migrate](https://npmx.dev/package/@oxlint/migrate) | | ![NPM Downloads](https://img.shields.io/npm/dw/@oxlint/migrate?label=npm) |
 | Webpack Loader | [oxc-webpack-loader](https://npmx.dev/package/oxc-webpack-loader) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-webpack-loader?label=npm) |
 | Webpack Plugin | [oxc-webpack-plugin](https://npmx.dev/package/oxc-webpack-plugin) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-webpack-plugin?label=npm) |
