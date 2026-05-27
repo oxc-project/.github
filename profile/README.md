@@ -54,13 +54,25 @@ Major projects in this organization:
 * [website](https://github.com/oxc-project/website) - [oxc.rs](https://oxc.rs)
 * [playground](https://github.com/oxc-project/playground) - [playground.oxc.rs](https://playground.oxc.rs)
 * [tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
+* [oxc-node](https://github.com/oxc-project/oxc-node) - Fast and friendly Node.js devtools
 * [oxc-resolver](https://github.com/oxc-project/oxc-resolver) - esm / cjs module resolution
+* [oxc-walker](https://github.com/oxc-project/oxc-walker) - A wrapper around `estree-walker` that accepts an `oxc` AST
 * [oxc-sourcemap](https://github.com/oxc-project/oxc-sourcemap) - Forked version of rust-sourcemap
 * [oxc-index-vec](https://github.com/oxc-project/oxc-index-vec) - Forked version of index_vec
 * [oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
 * [oxc-miette](https://github.com/oxc-project/oxc-miette) - Forked version of miette
+* [oxc-toml](https://github.com/oxc-project/oxc-toml) - Taplo forked for Oxfmt
 * [javascript-globals](https://github.com/oxc-project/javascript-globals) - Rust fork of [globals](https://npmx.dev/package/globals)
 * [unicode-id-start](https://github.com/oxc-project/unicode-id-start) - Determine whether characters have the ID_Start or ID_Continue properties
+* [oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a `.oxlintrc.json` from an existing ESLint flat config
+* [eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) - Turn off all rules already supported by oxlint
+* [oxc-vscode](https://github.com/oxc-project/oxc-vscode) - Oxc VS Code Extension
+* [oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
+* [coc-oxc](https://github.com/oxc-project/coc-oxc) - Oxc extension for coc.nvim
+* [oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - Oxc IntelliJ Plugin
+* [oxlint-action](https://github.com/oxc-project/oxlint-action) - GitHub Actions task to run Oxlint
+* [oxfmt-action](https://github.com/oxc-project/oxfmt-action) - GitHub Actions task to run Oxfmt
+* [oxc-webpack-plugin](https://github.com/oxc-project/oxc-webpack-plugin) - Webpack plugin for Oxc
 
 | Tool | npmx.dev | crates.io | Weekly Downloads |
 | ---- | --------- | --------- | ---------------- |
@@ -69,6 +81,11 @@ Major projects in this organization:
 | Formatter | [oxfmt](https://npmx.dev/package/oxfmt) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=npm) |
 | Parser | [oxc-parser](https://npmx.dev/package/oxc-parser) | [oxc_parser](https://crates.io/crates/oxc_parser) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=npm) |
 | Transformer | [oxc-transform](https://npmx.dev/package/oxc-transform) | [oxc_transformer](https://crates.io/crates/oxc_transformer) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=npm) |
-| Minifier | [oxc-minifiy](https://npmx.dev/package/oxc-minify) | [oxc_minifier](https://crates.io/crates/oxc_minifier) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
+| Minifier | [oxc-minify](https://npmx.dev/package/oxc-minify) | [oxc_minifier](https://crates.io/crates/oxc_minifier) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=npm) |
 | Resolver | [oxc-resolver](https://npmx.dev/package/oxc-resolver) | [oxc_resolver](https://crates.io/crates/oxc_resolver) | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=npm) |
+| Node Loader | [@oxc-node/core](https://npmx.dev/package/@oxc-node/core) | | ![NPM Downloads](https://img.shields.io/npm/dw/@oxc-node/core?label=npm) |
+| AST Walker | [oxc-walker](https://npmx.dev/package/oxc-walker) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-walker?label=npm) |
+| ESLint Plugin | [eslint-plugin-oxlint](https://npmx.dev/package/eslint-plugin-oxlint) | | ![NPM Downloads](https://img.shields.io/npm/dw/eslint-plugin-oxlint?label=npm) |
+| ESLint Migration | [oxlint-migrate](https://npmx.dev/package/oxlint-migrate) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxlint-migrate?label=npm) |
 | Webpack Loader | [oxc-webpack-loader](https://npmx.dev/package/oxc-webpack-loader) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-webpack-loader?label=npm) |
+| Webpack Plugin | [oxc-webpack-plugin](https://npmx.dev/package/oxc-webpack-plugin) | | ![NPM Downloads](https://img.shields.io/npm/dw/oxc-webpack-plugin?label=npm) |
