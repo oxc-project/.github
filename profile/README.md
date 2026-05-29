@@ -14,9 +14,9 @@
 </p>
 
 <div align="center">
-  
+
 [![oxc.rs][website-badge]][website-url]
-  
+
 </div>
 
 [website-badge]: https://img.shields.io/badge/oxc.rs-blue
@@ -27,7 +27,7 @@ Oxc is an MIT licensed open source project, governed by:
 * [@boshen] - Project Lead
 * [@yyx990803] - [voidzero]
 * and the [core team](https://oxc.rs/team.html)
-  
+
 Oxc is also a project of [VoidZero Inc.][voidzero], see our annoucement [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://voidzero.dev/blog).
 
 If you have requirements for JavaScript tools at scale, please [get in touch](https://forms.gle/WQgjyzYJpwurpxWKA)!
@@ -50,16 +50,16 @@ Major projects in this organization:
 
 | Project | Description | Link |
 | ------- | ----------- | ---- |
-| [oxc-parser](https://github.com/oxc-project/oxc) | JavaScript and TypeScript parser | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=oxc-parser)](https://npmx.dev/package/oxc-parser) |
-| [oxc-resolver](https://github.com/oxc-project/oxc-resolver) | ESM / CJS module resolution | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=oxc-resolver)](https://npmx.dev/package/oxc-resolver) |
 | [oxlint](https://github.com/oxc-project/oxc) | ESLint-compatible linter | [![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=oxlint)](https://npmx.dev/package/oxlint) |
 | [oxfmt](https://github.com/oxc-project/oxc) | Prettier-compatible formatter | [![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=oxfmt)](https://npmx.dev/package/oxfmt) |
 | [tsgolint](https://github.com/oxc-project/tsgolint) | Type-aware linting for oxlint | [![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=oxlint-tsgolint)](https://npmx.dev/package/oxlint-tsgolint) |
+| [eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) | Turn off all rules already supported by oxlint | [![NPM Downloads](https://img.shields.io/npm/dw/eslint-plugin-oxlint?label=eslint-plugin-oxlint)](https://npmx.dev/package/eslint-plugin-oxlint) |
+| [oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) | Generates a `.oxlintrc.json` from an existing ESLint flat config | [![NPM Downloads](https://img.shields.io/npm/dw/@oxlint/migrate?label=@oxlint/migrate)](https://npmx.dev/package/@oxlint/migrate) |
+| [oxc-parser](https://github.com/oxc-project/oxc) | JavaScript and TypeScript parser | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-parser?label=oxc-parser)](https://npmx.dev/package/oxc-parser) |
+| [oxc-resolver](https://github.com/oxc-project/oxc-resolver) | ESM / CJS module resolution | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-resolver?label=oxc-resolver)](https://npmx.dev/package/oxc-resolver) |
 | [oxc-transform](https://github.com/oxc-project/oxc) | JavaScript and TypeScript transformer | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-transform?label=oxc-transform)](https://npmx.dev/package/oxc-transform) |
 | [oxc-walker](https://github.com/oxc-project/oxc-walker) | A wrapper around `estree-walker` that accepts an `oxc` AST | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-walker?label=oxc-walker)](https://npmx.dev/package/oxc-walker) |
 | [oxc-minify](https://github.com/oxc-project/oxc) | JavaScript and TypeScript minifier | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-minify?label=oxc-minify)](https://npmx.dev/package/oxc-minify) |
-| [eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) | Turn off all rules already supported by oxlint | [![NPM Downloads](https://img.shields.io/npm/dw/eslint-plugin-oxlint?label=eslint-plugin-oxlint)](https://npmx.dev/package/eslint-plugin-oxlint) |
-| [oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) | Generates a `.oxlintrc.json` from an existing ESLint flat config | [![NPM Downloads](https://img.shields.io/npm/dw/@oxlint/migrate?label=@oxlint/migrate)](https://npmx.dev/package/@oxlint/migrate) |
 | [oxc-node](https://github.com/oxc-project/oxc-node) | Fast and friendly Node.js devtools | [![NPM Downloads](https://img.shields.io/npm/dw/@oxc-node/core?label=@oxc-node/core)](https://npmx.dev/package/@oxc-node/core) |
 | [oxc-webpack-loader](https://github.com/oxc-project/oxc-webpack-loader) | Webpack loader for Oxc | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-webpack-loader?label=oxc-webpack-loader)](https://npmx.dev/package/oxc-webpack-loader) |
 | [oxc-webpack-plugin](https://github.com/oxc-project/oxc-webpack-plugin) | Webpack plugin for Oxc | [![NPM Downloads](https://img.shields.io/npm/dw/oxc-webpack-plugin?label=oxc-webpack-plugin)](https://npmx.dev/package/oxc-webpack-plugin) |
