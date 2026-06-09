@@ -49,7 +49,7 @@ If you have requirements for JavaScript tools at scale, please [get in touch](ht
 Major projects in this organization:
 
 | Project | Description | Link |
-| ------- | ----------- | ---- |
+| ------- | ----------- | ----:|
 | [oxlint](https://github.com/oxc-project/oxc) | ESLint-compatible linter | [![NPM Downloads](https://img.shields.io/npm/dw/oxlint?label=oxlint)](https://npmx.dev/package/oxlint) |
 | [oxfmt](https://github.com/oxc-project/oxc) | Prettier-compatible formatter | [![NPM Downloads](https://img.shields.io/npm/dw/oxfmt?label=oxfmt)](https://npmx.dev/package/oxfmt) |
 | [tsgolint](https://github.com/oxc-project/tsgolint) | Type-aware linting for oxlint | [![NPM Downloads](https://img.shields.io/npm/dw/oxlint-tsgolint?label=oxlint-tsgolint)](https://npmx.dev/package/oxlint-tsgolint) |
