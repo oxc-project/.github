@@ -33,7 +33,7 @@ Oxc is also a project of [VoidZero Inc.][voidzero], see our annoucement [Announc
 If you have requirements for JavaScript tools at scale, please [get in touch](https://forms.gle/WQgjyzYJpwurpxWKA)!
 
 <p align="center">
-  <a href="https://github.com/sponsors/Boshen">
+  <a href="https://oxc.rs/sponsor">
     <img src="https://cdn.jsdelivr.net/gh/boshen/sponsors/sponsors.svg" alt="My sponsors" />
   </a>
 </p>
