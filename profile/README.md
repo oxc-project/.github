@@ -73,7 +73,6 @@ Major projects in this organization:
 | [oxfmt-action](https://github.com/oxc-project/oxfmt-action) | GitHub Actions task to run Oxfmt | [Action](https://github.com/oxc-project/oxfmt-action) |
 | [unicode-id-start](https://github.com/oxc-project/unicode-id-start) | Determine whether characters have the ID_Start or ID_Continue properties | [crates.io](https://crates.io/crates/unicode-id-start) |
 | [oxc-index-vec](https://github.com/oxc-project/oxc-index-vec) | Forked version of index_vec | [crates.io](https://crates.io/crates/oxc_index) |
-| [oxc-miette](https://github.com/oxc-project/oxc-miette) | Forked version of miette | [crates.io](https://crates.io/crates/oxc-miette) |
 | [oxc-sourcemap](https://github.com/oxc-project/oxc-sourcemap) | Forked version of rust-sourcemap | [crates.io](https://crates.io/crates/oxc_sourcemap) |
 | [oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) | Rust port of browserslist | [crates.io](https://crates.io/crates/oxc-browserslist) |
 | [javascript-globals](https://github.com/oxc-project/javascript-globals) | Rust fork of [globals](https://npmx.dev/package/globals) | [crates.io](https://crates.io/crates/javascript-globals) |
